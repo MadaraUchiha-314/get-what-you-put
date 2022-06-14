@@ -23,7 +23,6 @@
     - Security Standards tested
 - Every Merge to master:
     - All things in PR
-    - Artifact is created of the build
     - Artifact is versioned and stored to "an" artifact repository
 - Deployment
     - A docker image is created with the environment required for the artifact to serve request
